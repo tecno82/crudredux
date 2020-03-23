@@ -1,8 +1,8 @@
 {
   "productos": [
     {
-      "nombre": "Jugo de piña",
-      "precio": 100,
+      "nombre": "Jugo de piñas",
+      "precio": "5000",
       "id": 8
     },
     {
@@ -17,8 +17,13 @@
     },
     {
       "nombre": "Mote con huesillos",
-      "precio": 500,
+      "precio": "5000",
       "id": 11
+    },
+    {
+      "nombre": "Jugo de manzana",
+      "precio": 100,
+      "id": 12
     }
   ]
 }
